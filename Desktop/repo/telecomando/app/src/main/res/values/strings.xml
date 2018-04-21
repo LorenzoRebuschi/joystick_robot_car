@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Telecomando</string>
+    <string name="title_activity_controller">Controller</string>
+    <string name="low_battery">Batteria Scarica</string>
+    <string name="low_battery_notice">Batteria Quasi Scarica</string>
+    <string name="connect">Connettiti</string>
+    <string name="disconnect">Disconnettiti</string>
+    <string name="mod">Modalità</string>
+
+</resources>
